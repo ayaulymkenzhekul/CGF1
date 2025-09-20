@@ -1,6 +1,6 @@
 # CGF1 - Assignment 1
 
-# CGF1 — Task 1: Red Triangle and Blue Square OpenGL Programs
+# CGF1 — Task 1: Getting started
 
 ## Project Description
 This project contains two simple OpenGL programs:
