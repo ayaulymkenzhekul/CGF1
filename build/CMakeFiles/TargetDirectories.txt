@@ -1,0 +1,5 @@
+C:/CGF1/build/CMakeFiles/CGF1.dir
+C:/CGF1/build/CMakeFiles/red_triangle.dir
+C:/CGF1/build/CMakeFiles/blue_square.dir
+C:/CGF1/build/CMakeFiles/ALL_BUILD.dir
+C:/CGF1/build/CMakeFiles/ZERO_CHECK.dir
